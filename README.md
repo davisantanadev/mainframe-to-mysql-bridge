@@ -1,7 +1,5 @@
 # 🏦 PROJ6 - Sistema de Contas Bancárias em COBOL
 
-Projeto desenvolvido para a trilha COBOL do Programa Acelera Maker (Montreal Informática / PUC Minas).
-
 ---
 
 ## 📖 Sobre o Projeto
