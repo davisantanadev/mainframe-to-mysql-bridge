@@ -1,0 +1,14 @@
+=== LOGS DE EXECUCAO - EXEMPLO ===
+DATA: 2026-06-18 10:42:03
+PROGRAMA: PROTRX6
+REGISTROS LIDOS CLIENTES: 3
+REGISTROS LIDOS TRANSACOES: 5
+REGISTROS PROCESSADOS: 4
+REGISTROS COM ERRO: 1
+ERRO EXEMPLO: Cliente inexistente - CLI_ID=00999
+Mensagens:
+- Inicio do processamento
+- Aplicando transacoes
+- Atualizando saldos
+- Processamento finalizado com 1 erro
+================================
